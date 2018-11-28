@@ -1,6 +1,6 @@
 {
   "name": "paypal-bulk-refund",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Refund all PayPal transactions from a specific IP address",
   "main": "app.js",
   "scripts": {
