@@ -20,6 +20,8 @@ Hope you find it helpful!
 
 ## Changelog
 
+1.0.2: fixed more repo links. No code changes.
+
 1.0.1: fixed repo link. No code changes.
 
 1.0.0: initial release.

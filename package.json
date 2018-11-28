@@ -20,9 +20,9 @@
   "author": "P'unk Avenue LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/punkave/paypal-refund-by-ip/issues"
+    "url": "https://github.com/punkave/paypal-bulk-refund/issues"
   },
-  "homepage": "https://github.com/punkave/paypal-refund-by-ip#readme",
+  "homepage": "https://github.com/punkave/paypal-bulk-refund#readme",
   "dependencies": {
     "bluebird": "^3.5.3",
     "boring": "^0.1.0",
