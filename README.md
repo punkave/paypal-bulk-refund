@@ -14,4 +14,6 @@ See the PayPal documentation for more information about obtaining a client ID an
 
 If errors occur for some transactions the tool will continue, and print a summary at the end.
 
+To obtain transaction IDs in bulk, use the export feature of the PayPal website.
+
 Hope you find it helpful!
