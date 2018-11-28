@@ -1,6 +1,6 @@
 {
   "name": "paypal-bulk-refund",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Refund all PayPal transactions from a specific IP address",
   "main": "app.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/punkave/paypal-refund-by-ip.git"
+    "url": "git+https://github.com/punkave/paypal-bulk-refund.git"
   },
   "keywords": [
     "paypal",

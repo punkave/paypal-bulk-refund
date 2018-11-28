@@ -17,3 +17,9 @@ If errors occur for some transactions the tool will continue, and print a summar
 To obtain transaction IDs in bulk, use the export feature of the PayPal website.
 
 Hope you find it helpful!
+
+## Changelog
+
+1.0.1: fixed repo link. No code changes.
+
+1.0.0: initial release.
