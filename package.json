@@ -1,0 +1,32 @@
+{
+  "name": "paypal-refund-by-ip",
+  "version": "1.0.0",
+  "description": "Refund all PayPal transactions from a specific IP address",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punkave/paypal-refund-by-ip.git"
+  },
+  "keywords": [
+    "paypal",
+    "refund"
+  ],
+  "bin": {
+    "paypal-bulk-refund": "./bin/paypal-bulk-refund"
+  },
+  "author": "P'unk Avenue LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/punkave/paypal-refund-by-ip/issues"
+  },
+  "homepage": "https://github.com/punkave/paypal-refund-by-ip#readme",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "boring": "^0.1.0",
+    "csv-parse": "^4.0.1",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
